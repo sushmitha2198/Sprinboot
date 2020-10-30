@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\M1055864\MyWorkspaces\yorbit\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+224309143.index
+3728800028.index
+3526038311.index
+3662585553.index
+829841247.index
